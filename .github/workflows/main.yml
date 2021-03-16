@@ -29,4 +29,4 @@ jobs:
       - name: Run script
         run: |
           chmod +x script.sh
-          ./script
+          ./script.sh
